@@ -1,7 +1,7 @@
 Hello world 👋👋👋 ...
 
-I am Full stack Java Open source developer. Who loves to explore new, interesting projects.
-Please check out **[My Portfolio 💻](http://www.pbitla.com)**
+I am Full stack Java Open source developer. Who loves to explore new, interesting projects. <br />
+Please check out **[My Portfolio 💻](http://www.pbitla.com)** <br />
 📫 Email me Anytime: bitla.corp@gmail.com
 
 <!--
